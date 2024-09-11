@@ -1,0 +1,17 @@
+{
+  "name": "designautomationapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.20.0",
+    "express-formidable": "^1.2.0",
+    "forge-apis": "^0.9.10"
+  }
+}
